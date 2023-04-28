@@ -1,4 +1,4 @@
-# RandomQuote for Windows Signin
+# RandomQuote for Windows Sign In
 ## What this does
 This program will add a random quote to the Windows registry to be displayed before a user signs in.  The registry key is used by Local Group 
 Policy, so if you are using that for any other purpose, then DO NOT use this program, since it will overwrite any message set there.  Also note that it must be run as Admin.
