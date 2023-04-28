@@ -1,0 +1,12 @@
+#SOME SAMPLE QUOTES FROM FF7
+
+#BARRET
+Barret Wallace|Just a damn jackass, that's what you are...  Yo, jes' think about it...  How many people in this world do ya think really understand themselves?  People get depressed in life because they don't know what's up.  But, they go on living.  They don't run away... isn't that how it is?
+#CID
+Cid Highwind|^%$#! Shera!  What are you, blind?!  We got guests!! GET SOME TEA!  ^%$#!
+#CLOUD
+Cloud Strife|I know... no one lives in the slums because they want to.  It's like this train.  It can't run anywhere except where its rails take it.
+#TIFA
+Tifa Lockhart|People have so many things pent up inside of themselves.  So many things they can never forget.  Strange, isn't it?
+Tifa Lockhart|Do you think the stars can hear us?  Do you think they see how hard we're fighting for them?
+Tifa Lockhart|Words aren't the only way to tell someone how you feel.

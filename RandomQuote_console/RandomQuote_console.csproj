@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>projects-02_256.ico</ApplicationIcon>
+    <StartupObject>RandomQuote_console.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="projects-02_256.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="quotes.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
