@@ -3,7 +3,7 @@
 This program will add a random quote to the Windows registry to be displayed before a user signs in.  The registry key is used by Local Group 
 Policy, so if you are using that for any other purpose, then DO NOT use this program, since it will overwrite any message set there.  Also note that it must be run as Admin.
 
-If you have resservations about messing with the Windows registry, be aware that this does modify two values under a single key:
+If you have reservations about messing with the Windows registry, be aware that this does modify two values under a single key:
 <pre><code>KEY: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
 VALUE: legalnoticecaption (used for author)
 VALUE: legalnoticetext (used for quote)</code></pre>
@@ -24,4 +24,4 @@ Currently, if there is a problem with the quote (for example, the pipe character
 ## Use case
 Personally, I created a shutdown script in Windows using the Group Policy Editor that runs this program everytime I shutdown or restart.  You can run it manually of course at any time.  Keep in mind that this quote will only be seen when logging in to a new session in Windows.  It does not appear when resuming from a locked session.
 
-Here's a tip.  If you create a shortcut to this program, you can then go into the shortcut's properties, click advanced, and then enable "Run as administrator" to automatically make run as Admin.
+Here's a tip.  If you create a shortcut to this program, you can then go into the shortcut's properties, click advanced, and then enable "Run as administrator" to automatically make it run as Admin.
